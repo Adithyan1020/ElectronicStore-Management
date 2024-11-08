@@ -1,0 +1,2 @@
+1,smartphone,10000.0,5
+2,charger,2000.0,30
